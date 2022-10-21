@@ -1,7 +1,7 @@
 # Towards an Error-free Deep Occupancy Detector for Smart Camera Parking System
 
 This is the source code for simulation and data ETL of the paper. Please read [the paper](https://arxiv.org/abs/2208.08220) beforehand to understand the usage of the codes. OcpDet is designed to capture the error during inference by deep learning object-detector paradigm. It can verify samples that is non-covered in the training information and enhance detection accuracy performance
-![Architecture](assets/overall_architecture.png)
+![Architecture](assets/results.png)
 
 ## SNU-SPS dataset
 ![Dataset](assets/parking_dataset.png)
