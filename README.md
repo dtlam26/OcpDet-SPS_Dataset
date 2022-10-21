@@ -33,4 +33,4 @@ Model traininig has been trained by Tensorflow Object Detection API (TOD API). A
 ## Model inference
 In our code, we provide both server level and edge level inference. To run the server version, please attach the saved_model in the RELEASE and inference it by `model.py`. For the edge level, please include `jetson_inference` and the `.engine` model in RELEASE.
 
-![Demo IMG](asset/demo.png)
+![Demo IMG](assets/demo.png)
