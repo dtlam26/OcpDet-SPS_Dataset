@@ -1,15 +1,15 @@
-ALPR_Yolov5/
-Annotation/
-Captures/
-Images*/
-legacy/
-models/
-Non-Censored Plates/
-*records/
-tfrecords/
-Videos/
-weights/
-Test/
+ALPR_Yolov5/*
+Annotation/*
+Captures/*
+Images*/*
+legacy/*
+models/*
+Non-Censored Plates/*
+*records/*
+tfrecords/*
+Videos/*
+weights/*
+Test/*
 *.json
 
 !*/.gitkeep
